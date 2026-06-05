@@ -1,0 +1,6 @@
+[package]
+name = "ternary-proof"
+version = "0.1.0"
+edition = "2021"
+description = "Ternary proof verification system"
+license = "MIT"
